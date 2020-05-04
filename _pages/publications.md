@@ -4,56 +4,12 @@ title: "Publications"
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Journal
 ======
-**[1]** Zhang, Hongbin, Yanbing Mao, and **Yansong Gao**. "Exponential stability and asynchronous stabilization of switched systems with stable and unstable subsystems." Asian Journal of Control 15, no. 5 (2013): 1426-1433.
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+**[2]** **Yansong Gao**, Damith C. Ranasinghe, Said F. Al-Sarawi, Omid Kavehei, and Derek Abbott. "Memristive crypto primitive for building highly secure physical unclonable functions." Scientific reports 5 (2015): 12785.
+**[1]** Hongbin Zhang, Yanbing Mao, and **Yansong Gao**. "Exponential stability and asynchronous stabilization of switched systems with stable and unstable subsystems." Asian Journal of Control 15, no. 5 (2013): 1426-1433.
+
 
