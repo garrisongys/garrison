@@ -37,11 +37,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Journal
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+**[1]** Zhang, Hongbin, Yanbing Mao, and **Yansong Gao**. "Exponential stability and asynchronous stabilization of switched systems with stable and unstable subsystems." Asian Journal of Control 15, no. 5 (2013): 1426-1433.
   
 Talks
 ======
