@@ -36,18 +36,18 @@ Journal
 Conference
 ======
 
-Abuadbba, Sharif, Kyuyeon Kim, Minki Kim, Chandra Thapa, Seyit A. Camtepe, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Can We Use Split Learning on 1D CNN Models for Privacy Preserving Training?." 15th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2020**). to appear (**CCF C, AR=21.75%=67/308**)
+**[8]** Abuadbba, Sharif, Kyuyeon Kim, Minki Kim, Chandra Thapa, Seyit A. Camtepe, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Can We Use Split Learning on 1D CNN Models for Privacy Preserving Training?." 15th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2020**). to appear (**CCF C, AR=21.75%=67/308**)
 
-**Yansong Gao**, Change Xu, Derui Wang, Shiping Chen, Damith C. Ranasinghe, and Surya Nepal. "Strip: A defence against trojan attacks on deep neural networks." In Proceedings of the 35th Annual Computer Security Applications Conference (**ACSAC**), pp. 113-125. **2019**. (**CCF B, AR=22.6%=60/266**)
+**[7]** **Yansong Gao**, Change Xu, Derui Wang, Shiping Chen, Damith C. Ranasinghe, and Surya Nepal. "Strip: A defence against trojan attacks on deep neural networks." In Proceedings of the 35th Annual Computer Security Applications Conference (**ACSAC**), pp. 113-125. **2019**. (**CCF B, AR=22.6%=60/266**)
 
-**Yansong Gao**, Yang Su, Wei Yang, Shiping Chen, Surya Nepal, and Damith C. Ranasinghe. "Building secure SRAM PUF key generators on resource constrained devices." In 2019 IEEE International Conference on Pervasive Computing and Communications Workshops (**PerCom Workshops**), pp. 912-917. IEEE, 2019.
+**[6]** **Yansong Gao**, Yang Su, Wei Yang, Shiping Chen, Surya Nepal, and Damith C. Ranasinghe. "Building secure SRAM PUF key generators on resource constrained devices." In 2019 IEEE International Conference on Pervasive Computing and Communications Workshops (**PerCom Workshops**), pp. 912-917. IEEE, 2019.
 
-Yang Su, **Yansong Gao**, Omid Kavehei, and Damith C. Ranasinghe. "Hash functions and benchmarks for resource constrained passive devices: A preliminary study." In 2019 IEEE International Conference on Pervasive Computing and Communications Workshops (**PerCom Workshops**), pp. 1020-1025. IEEE, 2019.
+**[5]** Yang Su, **Yansong Gao**, Omid Kavehei, and Damith C. Ranasinghe. "Hash functions and benchmarks for resource constrained passive devices: A preliminary study." In 2019 IEEE International Conference on Pervasive Computing and Communications Workshops (**PerCom Workshops**), pp. 1020-1025. IEEE, 2019.
 
-Hua Ma, **Yansong Gao**, Omid Kavehei, and Damith C. Ranasinghe. "A PUF sensor: Securing physical measurements." In 2017 IEEE International Conference on Pervasive Computing and Communications Workshops (**PerCom Workshops**), pp. 648-653. IEEE, 2017.
+**[4]** Hua Ma, **Yansong Gao**, Omid Kavehei, and Damith C. Ranasinghe. "A PUF sensor: Securing physical measurements." In 2017 IEEE International Conference on Pervasive Computing and Communications Workshops (**PerCom Workshops**), pp. 648-653. IEEE, 2017.
 
-**Yansong Gao**, Gefei Li, Hua Ma, Said F. Al-Sarawi, Omid Kavehei, Derek Abbott, and Damith C. Ranasinghe. "Obfuscated challenge-response: A secure lightweight authentication mechanism for PUF-based pervasive devices." In 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (**PerCom Workshops**), pp. 1-6. IEEE, 2016.
+**[3]** **Yansong Gao**, Gefei Li, Hua Ma, Said F. Al-Sarawi, Omid Kavehei, Derek Abbott, and Damith C. Ranasinghe. "Obfuscated challenge-response: A secure lightweight authentication mechanism for PUF-based pervasive devices." In 2016 IEEE International Conference on Pervasive Computing and Communication Workshops (**PerCom Workshops**), pp. 1-6. IEEE, 2016.
 
-**Yansong Gao**, Damith C. Ranasinghe, Said F. Al-Sarawi, Omid Kavehei, and Derek Abbott. "mrPUF: A novel memristive device based physical unclonable function." In International Conference on Applied Cryptography and Network Security (**ACNS**), pp. 595-615. Springer, Cham, 2015. (**CCF C, AR=21%**)
+**[2]** **Yansong Gao**, Damith C. Ranasinghe, Said F. Al-Sarawi, Omid Kavehei, and Derek Abbott. "mrPUF: A novel memristive device based physical unclonable function." In International Conference on Applied Cryptography and Network Security (**ACNS**), pp. 595-615. Springer, Cham, 2015. (**CCF C, AR=21%**)
 
 **[1]** **Yansong Gao**, Tianpei Chen, and Jin Li. "High linearity and wide-bandwith LFMCW generator for THz radar system." In 2013 International Conference on Communications, Circuits and Systems (ICCCAS), vol. 1, pp. 301-305. IEEE, 2013.
