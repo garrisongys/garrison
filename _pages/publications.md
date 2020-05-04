@@ -33,4 +33,7 @@ Journal
 
 **[1]** Hongbin Zhang, Yanbing Mao, and **Yansong Gao**. "Exponential stability and asynchronous stabilization of switched systems with stable and unstable subsystems." Asian Journal of Control 15, no. 5 (**2013**): 1426-1433.
 
+Conference
+======
 
+**[1]** **Yansong Gao**, Tianpei Chen, and Jin Li. "High linearity and wide-bandwith LFMCW generator for THz radar system." In 2013 International Conference on Communications, Circuits and Systems (ICCCAS), vol. 1, pp. 301-305. IEEE, 2013.
