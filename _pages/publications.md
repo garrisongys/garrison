@@ -11,7 +11,7 @@ author_profile: true
 Journal
 ======
 
-**[11]** **Yansong Gao**, Marten van Dijk, Lei Xu, Surya Nepal, and Damith C. Ranasinghe. "Treverse: Trial-and-error lightweight secure reverse authentication with simulatable pufs." IEEE Transactions on Dependable and Secure Computing (**2019**).
+**[11]** **Yansong Gao**, Marten van Dijk, Lei Xu, Surya Nepal, and Damith C. Ranasinghe. "Treverse: Trial-and-error lightweight secure reverse authentication with simulatable pufs." IEEE Transactions on Dependable and Secure Computing (**2020**).
 
 **[10]** **Yansong Gao**, Said F. Al-Sarawi, and Derek Abbott. "Physical unclonable functions." Nature Electronics 3, no. 2 (**2020**): 81-91.
 
