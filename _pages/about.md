@@ -12,6 +12,6 @@ My current research interests are Physical Unclonable Functions, System Security
 
 NEWS
 ====
-* Our work is accepted by IEEE TDSC, 2020.05.03
-* Our work is published in Nature Electronics, 2020.02.24
-* Our work is accepted by AsiaCCS 2020, 2020.2.16
+* Our work is accepted by **IEEE TDSC**, 2020.05.03
+* Our work is published in **Nature Electronics**, 2020.02.24
+* Our work is accepted by **AsiaCCS 2020**, 2020.2.16
