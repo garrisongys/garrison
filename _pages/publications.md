@@ -11,7 +11,7 @@ author_profile: true
 Journal
 ======
 
-**[12]** Zhi Zhang, Yueqiang Chen, **Yansong Gao**, Surya Nepal, Dongxi Liu and Yi Zhou. "Detecting Hardware-assisted Virtualization with Inconspicuous Features." IEEE Transactions on Information Forensics and Security (**2020**). To Appear **CCF A**
+**[12]** Zhi Zhang, Yueqiang Chen, **Yansong Gao**, Surya Nepal, Dongxi Liu and Yi Zhou. "Detecting hardware assisted virtualization with inconspicuous features." IEEE Transactions on Information Forensics and Security (**2020**). To Appear **CCF A**
 
 **[11]** **Yansong Gao**, Marten van Dijk, Lei Xu, Wei Yang, Surya Nepal, and Damith C. Ranasinghe. "Treverse: Trial-and-error lightweight secure reverse authentication with simulatable pufs." IEEE Transactions on Dependable and Secure Computing (**2020**). **CCF A**
 
