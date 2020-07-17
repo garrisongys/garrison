@@ -11,7 +11,7 @@ author_profile: true
 Journal
 ======
 
-**[12]** Zhi Zhang, Yueqiang Chen, **Yansong Gao**, Surya Nepal, Dongxi Liu and Yi Zhou. "Detecting hardware assisted virtualization with inconspicuous features." IEEE Transactions on Information Forensics and Security (**2020**). To be appeared. **CCF A**
+**[12]** Zhi Zhang, Yueqiang Chen, **Yansong Gao**, Surya Nepal, Dongxi Liu and Yi Zhou. "Detecting hardware assisted virtualization with inconspicuous features." IEEE Transactions on Information Forensics and Security (**2020**). **CCF A**
 
 **[11]** **Yansong Gao**, Marten van Dijk, Lei Xu, Wei Yang, Surya Nepal, and Damith C. Ranasinghe. "Treverse: Trial-and-error lightweight secure reverse authentication with simulatable pufs." IEEE Transactions on Dependable and Secure Computing (**2020**). **CCF A**
 
@@ -38,7 +38,7 @@ Journal
 Conference
 ======
 
-**[9]** **Yansong Gao**, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things." The 39th International Symposium on Reliable Distributed Systems (**SRDS**) (**2020**). To Appear (**CCF B, AR=25.19%=33/131**)
+**[9]** **Yansong Gao**, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things." The 39th International Symposium on Reliable Distributed Systems (**SRDS**) **2020**. To Appear (**CCF B, AR=25.19%=33/131**)
 
 **[8]** Abuadbba, Sharif, Kyuyeon Kim, Minki Kim, Chandra Thapa, Seyit A. Camtepe, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Can We Use Split Learning on 1D CNN Models for Privacy Preserving Training?." 15th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2020**). to appear (**CCF C, AR=21.75%=67/308**)
 
