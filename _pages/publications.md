@@ -17,7 +17,7 @@ Journal
 
 **[10]** **Yansong Gao**, Said F. Al-Sarawi, and Derek Abbott. "Physical unclonable functions." **Nature Electronics** 3, no. 2 (**2020**): 81-91.
 
-**[9]** Yang Su, **Yansong Gao**, Michael Chesser, Omid Kavehei, Alanson Sample, and Damith Ranasinghe. "Secucode: Intrinsic puf entangled secure wireless code dissemination for computational RFID devices." IEEE Transactions on Dependable and Secure Computing (**2019**). **CCF A**
+**[9]** Yang Su, **Yansong Gao**, Michael Chesser, Omid Kavehei, Alanson Sample, and Damith Ranasinghe. "Secucode: Intrinsic puf entangled secure wireless code dissemination for computational RFID devices." IEEE Transactions on Dependable and Secure Computing (**2019**). **CCF A** [Code and Video Demo](https://github.com/AdelaideAuto-IDLab/SecuCode)
 
 **[8]** **Yansong Gao**, Yang Su, Lei Xu, and Damith C. Ranasinghe. "Lightweight (reverse) fuzzy extractor with multiple reference puf responses." IEEE Transactions on Information Forensics and Security 14, no. 7 (**2019**): 1887-1901. **CCF A**
 
