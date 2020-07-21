@@ -38,11 +38,11 @@ Journal
 Conference
 ======
 
-**[9]** **Yansong Gao**, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things." The 39th International Symposium on Reliable Distributed Systems (**SRDS**) **2020**. To Appear (**CCF B, AR=25.19%=33/131**) [Code] (https://github.com/garrisongys/Federated-Learning-and-Split-Learning-with-raspberry-pi) [Video](https://www.youtube.com/watch?v=x5mD1_EA2ps) [Paper](https://arxiv.org/abs/2003.13376)
+**[9]** **Yansong Gao**, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things." The 39th International Symposium on Reliable Distributed Systems (**SRDS**) **2020**. To Appear (**CCF B, AR=25.19%=33/131**) [Code](https://github.com/garrisongys/Federated-Learning-and-Split-Learning-with-raspberry-pi) [Video](https://www.youtube.com/watch?v=x5mD1_EA2ps) [Paper](https://arxiv.org/abs/2003.13376)
 
-**[8]** Abuadbba, Sharif, Kyuyeon Kim, Minki Kim, Chandra Thapa, Seyit A. Camtepe, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Can We Use Split Learning on 1D CNN Models for Privacy Preserving Training?." 15th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2020**). to appear (**CCF C, AR=21.75%=67/308**)
+**[8]** Abuadbba, Sharif, Kyuyeon Kim, Minki Kim, Chandra Thapa, Seyit A. Camtepe, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Can We Use Split Learning on 1D CNN Models for Privacy Preserving Training?." 15th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2020**). to appear (**CCF C, AR=21.75%=67/308**) [Code](https://github.com/kyuyeonpooh/split-learning-1d-cnn)
 
-**[7]** **Yansong Gao**, Change Xu, Derui Wang, Shiping Chen, Damith C. Ranasinghe, and Surya Nepal. "Strip: A defence against trojan attacks on deep neural networks." In Proceedings of the 35th Annual Computer Security Applications Conference (**ACSAC**), pp. 113-125. **2019**. (**CCF B, AR=22.6%=60/266**)
+**[7]** **Yansong Gao**, Change Xu, Derui Wang, Shiping Chen, Damith C. Ranasinghe, and Surya Nepal. "Strip: A defence against trojan attacks on deep neural networks." In Proceedings of the 35th Annual Computer Security Applications Conference (**ACSAC**), pp. 113-125. **2019**. (**CCF B, AR=22.6%=60/266**) [Code](https://github.com/garrisongys/STRIP)
 
 **[6]** **Yansong Gao**, Yang Su, Wei Yang, Shiping Chen, Surya Nepal, and Damith C. Ranasinghe. "Building secure SRAM PUF key generators on resource constrained devices." In 2019 IEEE International Conference on Pervasive Computing and Communications Workshops (**PerCom Workshops**), pp. 912-917. IEEE, **2019**.
 
