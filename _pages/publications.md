@@ -11,6 +11,8 @@ author_profile: true
 Journal
 ======
 
+**[13]** Fu, Anmin, Xianglong Zhang, Naixue Xiong, **Yansong Gao**, and Huaqun Wang. "VFL: A Verifiable Federated Learning with Privacy-Preserving for Big Data in Industrial IoT". IEEE Transactions on Industrial Informatics. (**2020**). To Appear.
+
 **[12]** Zhi Zhang, Yueqiang Chen, **Yansong Gao**, Surya Nepal, Dongxi Liu and Yi Zhou. "Detecting hardware assisted virtualization with inconspicuous features." IEEE Transactions on Information Forensics and Security (**2020**). **CCF A**
 
 **[11]** **Yansong Gao**, Marten van Dijk, Lei Xu, Wei Yang, Surya Nepal, and Damith C. Ranasinghe. "Treverse: Trial-and-error lightweight secure reverse authentication with simulatable pufs." IEEE Transactions on Dependable and Secure Computing (**2020**). **CCF A**
