@@ -40,9 +40,9 @@ Journal
 Conference
 ======
 
-**[10]** Wei Yang, Hailong Zhang, **Yansong Gao**, Anmin Fu and Songjie Wei. "Side-Channel Leakage Detection Based on Constant Parameter Channel Model." The IEEE International Conference on Computer Design (**ICCD**) **2020**. To Appear (**CCF B**)
+**[10]** Wei Yang, Hailong Zhang, **Yansong Gao**, Anmin Fu and Songjie Wei. "Side-Channel Leakage Detection Based on Constant Parameter Channel Model." The IEEE International Conference on Computer Design (**ICCD**) **2020**. To Appear (**CCF B**) [Presentation](https://www.youtube.com/watch?v=uX0f07_DtwU&t=10s) 
 
-**[9]** **Yansong Gao**, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things." The 39th International Symposium on Reliable Distributed Systems (**SRDS**) **2020**. (**CCF B, AR=25.19%=33/131**) [Code](https://github.com/garrisongys/Federated-Learning-and-Split-Learning-with-raspberry-pi) [Video](https://www.youtube.com/watch?v=x5mD1_EA2ps) 
+**[9]** **Yansong Gao**, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things." The 39th International Symposium on Reliable Distributed Systems (**SRDS**) **2020**. (**CCF B, AR=25.19%=33/131**) [Code](https://github.com/garrisongys/Federated-Learning-and-Split-Learning-with-raspberry-pi) [Demo](https://www.youtube.com/watch?v=x5mD1_EA2ps) [Presentation](https://www.youtube.com/watch?v=l55krlN4FLA&t=748s) 
 
 **[8]** Abuadbba, Sharif, Kyuyeon Kim, Minki Kim, Chandra Thapa, Seyit A. Camtepe, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Can We Use Split Learning on 1D CNN Models for Privacy Preserving Training?." 15th ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2020**). (**CCF C, AR=21.75%=67/308**) [Code](https://github.com/kyuyeonpooh/split-learning-1d-cnn)
 
