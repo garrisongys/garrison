@@ -11,6 +11,8 @@ author_profile: true
 Journal
 ======
 
+**[14]** **Yansong Gao**, Yeonjae Kim, Bao Gia Doan, Zhi Zhang, Gongxuan Zhang, Surya Nepal, Damith C. Ranasinghe, and Hyoungshick Kim. "Design and evaluation of a multi-domain Trojan detection method on deep neural networks." IEEE Transactions on Dependable and Secure Computing (**2020**). **CCF A**. Accepted
+
 **[13]** Anmin Fu, Xianglong Zhang, Naixue Xiong, **Yansong Gao**, and Huaqun Wang. "VFL: A Verifiable Federated Learning with Privacy-Preserving for Big Data in Industrial IoT". IEEE Transactions on Industrial Informatics (**2020**). To Appear.
 
 **[12]** Zhi Zhang, Yueqiang Chen, **Yansong Gao**, Surya Nepal, Dongxi Liu and Yi Zhou. "Detecting hardware assisted virtualization with inconspicuous features." IEEE Transactions on Information Forensics and Security (**2020**). **CCF A**
