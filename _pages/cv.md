@@ -24,6 +24,10 @@ Reviewer
 * ACM Transactions on Internet of Things 
 * IEEE Internet of Things Journal
 * Journal of Information Security and Applications
+* ACM Digital Threats: Research and Practice (DTRAP)
+* IEEE Transactions on Nanotechnology
+* IEEE Electron Device Letters
+* Electronics Letters
 * Australasian Conference on Information Security and Privacy (ACISP), 2020
 * International Joint Conference on Neural Networks (IJCNN), 2021
 
