@@ -14,6 +14,12 @@ Education
 * M.S. University of Electronic Science and Technology of China (UESTC), 2013
 * Ph.D The University of Adelaide, 2017
 
+PC Member
+======
+* International Workshop on Security, Privacy and Trust in the Internet of Things, in Conjunction with Percom, 2019, 2020, 2021
+* World Conference on Information Security Applications, 2021
+
+
 Reviewer
 ======
 * Nature
