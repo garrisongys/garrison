@@ -35,7 +35,7 @@ Reviewer
 * IEEE Electron Device Letters
 * Electronics Letters
 * IEEE Access
-* Australasian Conference on Information Security and Privacy (ACISP), 2020
+* Australasian Conference on Information Security and Privacy (ACISP), 2019
 * International Joint Conference on Neural Networks (IJCNN), 2021
 
 
