@@ -41,7 +41,7 @@ Journal
 
 Conference
 ======
-**[10]** Bedeuro Kim, Alsharif Abuadbba, **Yansong Gao**, Yifeng Zheng, Muhammad Ejaz Ahmed, Hyoungshick Kim, and Surya Nepal. "Decamouflage: A Framework to Detect Image-Scaling Attacks on Convolutional Neural Networks." The 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) **2021**. (**CCF B, AR=16.30%=48/295**) To Appear
+**[11]** Bedeuro Kim, Alsharif Abuadbba, **Yansong Gao**, Yifeng Zheng, Muhammad Ejaz Ahmed, Hyoungshick Kim, and Surya Nepal. "Decamouflage: A Framework to Detect Image-Scaling Attacks on CNN." The 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) **2021**. (**CCF B, AR=16.30%=48/295**) To Appear
 
 **[10]** Wei Yang, Hailong Zhang, **Yansong Gao**, Anmin Fu and Songjie Wei. "Side-Channel Leakage Detection Based on Constant Parameter Channel Model." The IEEE International Conference on Computer Design (**ICCD**) **2020**. (**CCF B**) [Presentation](https://www.youtube.com/watch?v=uX0f07_DtwU&t=10s) 
 
