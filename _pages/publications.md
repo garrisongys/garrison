@@ -41,8 +41,9 @@ Journal
 
 Conference
 ======
+**[10]** Bedeuro Kim, Alsharif Abuadbba, **Yansong Gao**, Yifeng Zheng, Muhammad Ejaz Ahmed, Hyoungshick Kim, and Surya Nepal. "Decamouflage: A Framework to Detect Image-Scaling Attacks on Convolutional Neural Networks." The 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) **2021**. (**CCF B, AR=16.30%=48/295**) To Appear
 
-**[10]** Wei Yang, Hailong Zhang, **Yansong Gao**, Anmin Fu and Songjie Wei. "Side-Channel Leakage Detection Based on Constant Parameter Channel Model." The IEEE International Conference on Computer Design (**ICCD**) **2020**. To Appear (**CCF B**) [Presentation](https://www.youtube.com/watch?v=uX0f07_DtwU&t=10s) 
+**[10]** Wei Yang, Hailong Zhang, **Yansong Gao**, Anmin Fu and Songjie Wei. "Side-Channel Leakage Detection Based on Constant Parameter Channel Model." The IEEE International Conference on Computer Design (**ICCD**) **2020**. (**CCF B**) [Presentation](https://www.youtube.com/watch?v=uX0f07_DtwU&t=10s) 
 
 **[9]** **Yansong Gao**, Minki Kim, Sharif Abuadbba, Yeonjae Kim, Chandra Thapa, Kyuyeon Kim, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "End-to-End Evaluation of Federated Learning and Split Learning for Internet of Things." The 39th International Symposium on Reliable Distributed Systems (**SRDS**) **2020**. (**CCF B, AR=25.19%=33/131**) [Code](https://github.com/garrisongys/Federated-Learning-and-Split-Learning-with-raspberry-pi) [Demo](https://www.youtube.com/watch?v=x5mD1_EA2ps) [Presentation](https://www.youtube.com/watch?v=l55krlN4FLA&t=748s) 
 
