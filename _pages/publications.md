@@ -11,7 +11,11 @@ author_profile: true
 Journal
 ======
 
-**[17]** **Gao, Yansong**, Minki Kim, Chandra Thapa, Sharif Abuadbba, Zhi Zhang, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "Evaluation and Optimization of Distributed Machine Learning Techniques for Internet of Things." IEEE Transactions on Computers (2021). **CCF A**
+**[19]** Yueqiang Cheng, Zhi Zhang, **Yansong Gao**, Zhaofeng Chen, Shengjian Guo, Qifei Zhang, Rui Mei, Surya Nepal, and Yang Xiang. "Meltdown-type attacks are still feasible in the wall of kernel page-Table isolation." Computers & Security 113 (2022): 102556. **CCF B**
+
+**[18]** Boyu Kuang, Anmin Fu, Willy Susilo, Shui Yu, and **Yansong Gao**. "A survey of remote attestation in Internet of Things: Attacks, countermeasures, and prospects." Computers & Security 112 (2022): 102498. **CCF B**
+
+**[17]** **Yansong Gao**, Minki Kim, Chandra Thapa, Sharif Abuadbba, Zhi Zhang, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "Evaluation and Optimization of Distributed Machine Learning Techniques for Internet of Things." IEEE Transactions on Computers (2021). **CCF A**
 
 **[16]** Yupeng Yu, Wenxin Kuang, Zheng Qin, Kenli Li, Jiliang Zhang, **Yansong Gao**, Wenjia Li, and Keqin Li. "Artificial Intelligence Security: Threats and Countermeasures." ACM Computing Surveys (CSUR) 55, no. 1 (2021): 1-36.
 
