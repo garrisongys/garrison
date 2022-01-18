@@ -11,6 +11,8 @@ author_profile: true
 Journal
 ======
 
+**[17]** **Gao, Yansong**, Minki Kim, Chandra Thapa, Sharif Abuadbba, Zhi Zhang, Seyit A. Camtepe, Hyoungshick Kim, and Surya Nepal. "Evaluation and Optimization of Distributed Machine Learning Techniques for Internet of Things." IEEE Transactions on Computers (2021). **CCF A**
+
 **[16]** Yupeng Yu, Wenxin Kuang, Zheng Qin, Kenli Li, Jiliang Zhang, **Yansong Gao**, Wenjia Li, and Keqin Li. "Artificial Intelligence Security: Threats and Countermeasures." ACM Computing Surveys (CSUR) 55, no. 1 (2021): 1-36.
 
 **[15]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Minghua Wang, Kang Li, Surya Nepal, and Yang Xiang. "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability." IEEE Transactions on Information Forensics and Security 16 (2021): 5167-5181. **CCF A** (Corresponding Author)
