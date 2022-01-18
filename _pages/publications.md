@@ -11,6 +11,10 @@ author_profile: true
 Journal
 ======
 
+**[16]** Yupeng Yu, Wenxin Kuang, Zheng Qin, Kenli Li, Jiliang Zhang, **Yansong Gao**, Wenjia Li, and Keqin Li. "Artificial Intelligence Security: Threats and Countermeasures." ACM Computing Surveys (CSUR) 55, no. 1 (2021): 1-36.
+
+**[15]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Minghua Wang, Kang Li, Surya Nepal, and Yang Xiang. "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability." IEEE Transactions on Information Forensics and Security 16 (2021): 5167-5181. **CCF A** (Corresponding Author)
+
 **[14]** **Yansong Gao**, Yeonjae Kim, Bao Gia Doan, Zhi Zhang, Gongxuan Zhang, Surya Nepal, Damith C. Ranasinghe, and Hyoungshick Kim. "Design and evaluation of a multi-domain Trojan detection method on deep neural networks." IEEE Transactions on Dependable and Secure Computing (**2021**). **CCF A**. [Code](https://github.com/yjkim721/STRIP-ViTA)
 
 **[13]** Anmin Fu, Xianglong Zhang, Naixue Xiong, **Yansong Gao**, and Huaqun Wang. "VFL: A Verifiable Federated Learning with Privacy-Preserving for Big Data in Industrial IoT". IEEE Transactions on Industrial Informatics (**2020**).
