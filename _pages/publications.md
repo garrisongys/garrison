@@ -11,11 +11,11 @@ author_profile: true
 Journal
 ======
 
-**[22]** Yang Su, Michael Chesser, **Yansong Gao**, Alanson P. Sample, and Damith C. Ranasinghe. "Wisecr: Secure Simultaneous Code Disseminationto Many Batteryless Computational RFID Devices." IEEE Transactions on Dependable and Secure Computing (**2022**). **CCF A**
+**[22]** Yang Su, Michael Chesser, **Yansong Gao**, Alanson P. Sample, and Damith C. Ranasinghe. "Wisecr: Secure Simultaneous Code Disseminationto Many Batteryless Computational RFID Devices." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
 
-**[21]** Jianrong Yao (Supervised Student), Lihui Pang, Yang Su, Zhi Zhang, Wei Yang, Anmin Fu, and **Yansong Gao**. "Design and Evaluate Recomposited OR-AND-XOR-PUF." IEEE Transactions on Emerging Topics in Computing (**2022**). **(Corresponding Author)**
+**[21]** Jianrong Yao (Supervised Master Student), Lihui Pang, Yang Su, Zhi Zhang, Wei Yang, Anmin Fu, and **Yansong Gao**. "Design and Evaluate Recomposited OR-AND-XOR-PUF." IEEE Transactions on Emerging Topics in Computing (2022). **(Corresponding Author)**
 
-**[20]** J. R. Dawson, George Hobbs, **Yansong Gao**, Seyit Camtepe, Josef Pieprzyk, Yi Feng, Luke Tranfa, Sarah Bradbury, Weiwei Zhu, and Di Li. "Physical Publicly Verifiable Randomness from Pulsars." Astronomy & Computing (**2022**).
+**[20]** J. R. Dawson, George Hobbs, **Yansong Gao**, Seyit Camtepe, Josef Pieprzyk, Yi Feng, Luke Tranfa, Sarah Bradbury, Weiwei Zhu, and Di Li. "Physical Publicly Verifiable Randomness from Pulsars." Astronomy & Computing (2022).
 
 **[19]** Yueqiang Cheng, Zhi Zhang, **Yansong Gao**, Zhaofeng Chen, Shengjian Guo, Qifei Zhang, Rui Mei, Surya Nepal, and Yang Xiang. "Meltdown-type attacks are still feasible in the wall of kernel page-Table isolation." Computers & Security 113 (2022): 102556. **CCF B**
 
