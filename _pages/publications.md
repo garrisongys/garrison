@@ -11,6 +11,12 @@ author_profile: true
 Journal
 ======
 
+**[22]** Yang Su, Michael Chesser, **Yansong Gao**, Alanson P. Sample, and Damith C. Ranasinghe. "Wisecr: Secure Simultaneous Code Disseminationto Many Batteryless Computational RFID Devices." IEEE Transactions on Dependable and Secure Computing (**2022**). **CCF A**
+
+**[21]** Jianrong Yao (Supervised Student), Lihui Pang, Yang Su, Zhi Zhang, Wei Yang, Anmin Fu, and **Yansong Gao**. "Design and Evaluate Recomposited OR-AND-XOR-PUF." IEEE Transactions on Emerging Topics in Computing (**2022**). **(Corresponding Author)**
+
+**[20]** J. R. Dawson, George Hobbs, **Yansong Gao**, Seyit Camtepe, Josef Pieprzyk, Yi Feng, Luke Tranfa, Sarah Bradbury, Weiwei Zhu, and Di Li. "Physical Publicly Verifiable Randomness from Pulsars." Astronomy & Computing (**2022**).
+
 **[19]** Yueqiang Cheng, Zhi Zhang, **Yansong Gao**, Zhaofeng Chen, Shengjian Guo, Qifei Zhang, Rui Mei, Surya Nepal, and Yang Xiang. "Meltdown-type attacks are still feasible in the wall of kernel page-Table isolation." Computers & Security 113 (2022): 102556. **CCF B**
 
 **[18]** Boyu Kuang, Anmin Fu, Willy Susilo, Shui Yu, and **Yansong Gao**. "A survey of remote attestation in Internet of Things: Attacks, countermeasures, and prospects." Computers & Security 112 (2022): 102498. **CCF B**
@@ -19,7 +25,7 @@ Journal
 
 **[16]** Yupeng Yu, Wenxin Kuang, Zheng Qin, Kenli Li, Jiliang Zhang, **Yansong Gao**, Wenjia Li, and Keqin Li. "Artificial Intelligence Security: Threats and Countermeasures." ACM Computing Surveys (CSUR) 55, no. 1 (2021): 1-36.
 
-**[15]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Minghua Wang, Kang Li, Surya Nepal, and Yang Xiang. "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability." IEEE Transactions on Information Forensics and Security 16 (2021): 5167-5181. **CCF A** (Corresponding Author)
+**[15]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Minghua Wang, Kang Li, Surya Nepal, and Yang Xiang. "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability." IEEE Transactions on Information Forensics and Security 16 (2021): 5167-5181. **CCF A** **(Corresponding Author)**
 
 **[14]** **Yansong Gao**, Yeonjae Kim, Bao Gia Doan, Zhi Zhang, Gongxuan Zhang, Surya Nepal, Damith C. Ranasinghe, and Hyoungshick Kim. "Design and evaluation of a multi-domain Trojan detection method on deep neural networks." IEEE Transactions on Dependable and Secure Computing (**2021**). **CCF A**. [Code](https://github.com/yjkim721/STRIP-ViTA)
 
