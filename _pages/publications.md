@@ -57,6 +57,9 @@ Journal
 
 Conference
 ======
+
+**[12]** Zhi Zhang, Yueqiang Cheng, Minghua Wang, Wei He, Wenhao Wang, Nepal Surya, **Yansong Gao**, Kang Li, Zhe Wang, and Chenggang Wu. "SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh." USENIX Annual Technical Conference (**USENIX ATC '22**) **2022**. (**CCF A, AR=16.30%=64/393**) To Apper
+
 **[11]** Bedeuro Kim, Alsharif Abuadbba, **Yansong Gao**, Yifeng Zheng, Muhammad Ejaz Ahmed, Hyoungshick Kim, and Surya Nepal. "Decamouflage: A Framework to Detect Image-Scaling Attacks on CNN." The 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) **2021**. (**CCF B, AR=16.30%=48/295**) To Appear
 
 **[10]** Wei Yang, Hailong Zhang, **Yansong Gao**, Anmin Fu and Songjie Wei. "Side-Channel Leakage Detection Based on Constant Parameter Channel Model." The IEEE International Conference on Computer Design (**ICCD**) **2020**. (**CCF B**) [Presentation](https://www.youtube.com/watch?v=uX0f07_DtwU&t=10s) 
