@@ -11,6 +11,8 @@ author_profile: true
 Journal
 ======
 
+**[23]** Zhenzhu Chen, Shang Wang, Anmin Fu, **Yansong Gao**, Shui Yu, Robert H. Deng. "LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons  Consistency Check." IEEE Transactions on Information Forensics and Security (2022). **CCF A**
+
 **[22]** Yang Su, Michael Chesser, **Yansong Gao**, Alanson P. Sample, and Damith C. Ranasinghe. "Wisecr: Secure Simultaneous Code Disseminationto Many Batteryless Computational RFID Devices." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
 
 **[21]** Jianrong Yao (**Supervised Master Student**), Lihui Pang, Yang Su, Zhi Zhang, Wei Yang, Anmin Fu, and **Yansong Gao**. "Design and Evaluate Recomposited OR-AND-XOR-PUF." IEEE Transactions on Emerging Topics in Computing (2022). **(Corresponding Author)**
