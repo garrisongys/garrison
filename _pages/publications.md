@@ -11,6 +11,8 @@ author_profile: true
 Journal
 ======
 
+**[24]** Xicheng Wan (**Supervised Undergraduate Student**), Yifeng Zheng, Qun Li, Anmin Fu, Mang Su, and **Yansong Gao**. "Towards Privacy-Preserving and Verifiable Federated Matrix Factorization." Knowledge-Based Systems (2022).
+
 **[23]** Zhenzhu Chen, Shang Wang, Anmin Fu, **Yansong Gao**, Shui Yu, Robert H. Deng. "LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons  Consistency Check." IEEE Transactions on Information Forensics and Security (2022). **CCF A**
 
 **[22]** Yang Su, Michael Chesser, **Yansong Gao**, Alanson P. Sample, and Damith C. Ranasinghe. "Wisecr: Secure Simultaneous Code Disseminationto Many Batteryless Computational RFID Devices." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
