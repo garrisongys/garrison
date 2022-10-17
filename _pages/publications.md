@@ -11,6 +11,14 @@ author_profile: true
 Journal
 ======
 
+**[28]** Huming Qiu (**Supervised Master Student**), Hua Ma, Zhi Zhang, **Yansong Gao**, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek Abbott, and Said F. Al-Sarawi. "RBNN: Memory-efficient reconfigurable deep binary neural network with IP protection for internet of things." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022). **CCF A**, **(Corresponding Author)**
+
+**[27]** Lei Zhou, Anmin Fu, Guomin Yang, **Yansong Gao**, Shui Yu, and Robert H. Deng. "Fair Cloud Auditing Based on Blockchain for Resource-Constrained IoT Devices." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
+
+**[26]** Boyu Kuang, Anmin Fu, **Yansong Gao**, Yuqing Zhang, Jianying Zhou, and Robert H. Deng. "FeSA: Automatic Federated Swarm Attestation on Dynamic Large-Scale IoT Devices." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
+
+**[25]** **Yansong Gao**, Qun Li (**Supervised Master Student**), Yifeng Zheng, Guohong Wang, Jiannan Wei, and Mang Su. "SEDML: Securely and efficiently harnessing distributed knowledge in machine learning." Computers & Security 121 (2022): 102857. **CCF B**
+
 **[24]** Xicheng Wan (**Supervised Undergraduate Student**), Yifeng Zheng, Qun Li, Anmin Fu, Mang Su, and **Yansong Gao**. "Towards Privacy-Preserving and Verifiable Federated Matrix Factorization." Knowledge-Based Systems (2022).
 
 **[23]** Zhenzhu Chen, Shang Wang, Anmin Fu, **Yansong Gao**, Shui Yu, Robert H. Deng. "LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons  Consistency Check." IEEE Transactions on Information Forensics and Security (2022). **CCF A**
