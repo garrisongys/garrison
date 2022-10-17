@@ -70,6 +70,8 @@ Journal
 Conference
 ======
 
+**[12]** #Chunyi Zhou, **#Yansong Gao**, Anmin Fu, Kai Chen, Zhiyang Dai, Zhi Zhang, Minhui Xue, and Yuqing Zhang. "PPA: Preference Profiling Attack Against Federated Learning." NDSS (2023). To Appear. **CCF A**，#Co-first Author.
+
 **[12]** Zhi Zhang, Yueqiang Cheng, Minghua Wang, Wei He, Wenhao Wang, Nepal Surya, **Yansong Gao**, Kang Li, Zhe Wang, and Chenggang Wu. "SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh." USENIX Annual Technical Conference (**USENIX ATC '22**) **2022**. (**CCF A, AR=16.30%=64/393**) To Appear
 
 **[11]** Bedeuro Kim, Alsharif Abuadbba, **Yansong Gao**, Yifeng Zheng, Muhammad Ejaz Ahmed, Hyoungshick Kim, and Surya Nepal. "Decamouflage: A Framework to Detect Image-Scaling Attacks on CNN." The 51st IEEE/IFIP International Conference on Dependable Systems and Networks (**DSN**) **2021**. (**CCF B, AR=16.30%=48/295**)
