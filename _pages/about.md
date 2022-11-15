@@ -13,6 +13,7 @@ My current research interests are Physical Unclonable Functions, System Security
 Current Students
 ======
 
+* Guohong Wang 王国洪，PhD Student 博士生， 2021---
 * Huaibing Peng 彭怀兵，Master Student 研究生， 2022---
 * Ting Luo 骆挺, Master Student 研究生，2022---
 * Benxuan Huang 黄本轩，Master Student 研究生，2021---)
