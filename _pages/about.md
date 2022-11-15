@@ -14,6 +14,8 @@ Current Students
 ======
 
 * Guohong Wang 王国洪，PhD Student 博士生， 2021---
+* Chunyi Zhou 周纯毅，PhD Student 博士生， 
+* Qihao Dong 董起豪，PhD Student 博士生， 
 * Huaibing Peng 彭怀兵，Master Student 研究生， 2022---
 * Ting Luo 骆挺, Master Student 研究生，2022---
 * Benxuan Huang 黄本轩，Master Student 研究生，2021---
