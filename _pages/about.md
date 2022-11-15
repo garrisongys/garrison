@@ -22,4 +22,12 @@ Current Students
 * Qun Li 李群，Master Student 研究生，2020---
 * Yinshan Li 李银山，Master Student 研究生，2020---
 
+Past Students
+======
+Yang Lu, PhD Student of QUT, 2019---2020.
+Bedeuro Kim, PhD Student of SKKU, 2019---2020.
+Yeonjae Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
+Kyuyeon Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
+Minki Kim, Undergraduate Student of SKKU, 2019.
+
 
