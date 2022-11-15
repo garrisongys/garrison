@@ -23,6 +23,8 @@ PC Member
 Reviewer
 ======
 * Nature
+* Nature Electronics
+* Nature Communications
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Services Computing
