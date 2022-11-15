@@ -24,10 +24,10 @@ Current Students
 
 Past Students
 ======
-Yang Lu, PhD Student of QUT, 2019---2020.
-Bedeuro Kim, PhD Student of SKKU, 2019---2020.
-Yeonjae Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
-Kyuyeon Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
-Minki Kim, Undergraduate Student of SKKU, 2019.
+* Yang Lu, PhD Student of QUT, 2019---2020.
+* Bedeuro Kim, PhD Student of SKKU, 2019---2020.
+* Yeonjae Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
+* Kyuyeon Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
+* Minki Kim, Undergraduate Student of SKKU, 2019.
 
 
