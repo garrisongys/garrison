@@ -10,6 +10,8 @@ author_profile: true
 
 Journal
 ======
+**[30]** **Yansong Gao**, Yang Su, Surya Nepal, and Damith C. Ranasinghe. "NoisFre: Noise-tolerant memory fingerprints from commodity devices for security functions." arXiv preprint arXiv:2109.02942 (2021). IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
+
 **[29]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou. "Implicit Hammer: Cross-Privilege-Boundary Rowhammer through Implicit Accesses". IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**, **(Corresponding Author)**
 
 **[28]** Huming Qiu (**Supervised Master Student**), Hua Ma, Zhi Zhang, **Yansong Gao**, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek Abbott, and Said F. Al-Sarawi. "RBNN: Memory-efficient reconfigurable deep binary neural network with IP protection for internet of things." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022). **CCF A**, **(Corresponding Author)**
