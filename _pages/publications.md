@@ -10,7 +10,7 @@ author_profile: true
 
 Journal
 ======
-**[30]** **Yansong Gao**, Yang Su, Surya Nepal, and Damith C. Ranasinghe. "NoisFre: Noise-tolerant memory fingerprints from commodity devices for security functions." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
+**[30]** **Yansong Gao**, Yang Su, Surya Nepal, and Damith C. Ranasinghe. "NoisFre: Noise-tolerant memory fingerprints from commodity devices for security functions." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**. [Video Demo](https://github.com/yjkim721/STRIP-ViTA](https://www.youtube.com/watch?v=O5NWZw-swpw)
 
 **[29]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou. "Implicit Hammer: Cross-Privilege-Boundary Rowhammer through Implicit Accesses". IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**, **(Corresponding Author)**
 
