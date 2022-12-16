@@ -73,6 +73,8 @@ Journal
 Conference
 ======
 
+**[14]** Shang Wang, **#Yansong Gao**, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, and Dongxi Liu. "CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences." ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2023**). To appear. #Co-first Author.
+
 **[13]** #Chunyi Zhou (**Co-Supervised Ph.D Student**), **#Yansong Gao**, Anmin Fu, Kai Chen, Zhiyang Dai, Zhi Zhang, Minhui Xue, and Yuqing Zhang. "PPA: Preference Profiling Attack Against Federated Learning." NDSS (2023). To Appear. **CCF A**，#Co-first Author. [Code](https://github.com/PPAattack)
 
 **[12]** Zhi Zhang, Yueqiang Cheng, Minghua Wang, Wei He, Wenhao Wang, Nepal Surya, **Yansong Gao**, Kang Li, Zhe Wang, and Chenggang Wu. "SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh." USENIX Annual Technical Conference (**USENIX ATC '22**) **2022**. (**CCF A, AR=16.30%=64/393**) 
