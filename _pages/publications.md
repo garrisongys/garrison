@@ -10,6 +10,11 @@ author_profile: true
 
 Journal
 ======
+
+**[32]** **Yansong Gao**, Jianrong Yao, Lihui Pang, Wei Yang, Anmin Fu, Said F. Al-Sarawi, and Derek Abbott. "MLMSA: Multi-Label Multi-Side-Channel-Information enabled Deep Learning Attacks on APUF Variants." Transactions on Computer-Aided Design of Integrated Circuits and Systems (2023). **CCF A**
+
+**[31]** Wei He, Zhi Zhang, Yueqiang Cheng, Wenhao Wang, Wei Song, **Yansong Gao**, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal. "WhistleBlower: A System-level Empirical Study on RowHammer." IEEE Transactions on Computers (2023). **CCF A**
+
 **[30]** **Yansong Gao**, Yang Su, Surya Nepal, and Damith C. Ranasinghe. "NoisFre: Noise-tolerant memory fingerprints from commodity devices for security functions." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**. [Video Demo](https://www.youtube.com/watch?v=O5NWZw-swpw)
 
 **[29]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou. "Implicit Hammer: Cross-Privilege-Boundary Rowhammer through Implicit Accesses". IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**, **(Corresponding Author)**
