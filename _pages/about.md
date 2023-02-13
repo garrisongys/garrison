@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a tenured Research Scientist at Data61, CSIRO. My current research interests are Physical Unclonable Functions, System Security, and AI Security and Privacy. I received  my  M.Sc  degree  from University of Electronic Science and Technology of China (UESTC) in 2013 and Ph.D degree from the University of Adelaide, Australia, in 2017. 
+I am a tenured Research Scientist at Data61, CSIRO. My current research interests are AI Security and Privacy Physical Unclonable Functions, and System Security. I received  my  M.Sc  degree  from University of Electronic Science and Technology of China (UESTC) in 2013 and Ph.D degree from the University of Adelaide, Australia, in 2017. 
 
 Current Students
 ======
