@@ -11,6 +11,8 @@ author_profile: true
 Journal
 ======
 
+**[32]** Jiliang Zhang, Shuang Peng, **Yansong Gao**, Zhi Zhang, and Qinghui Hong. "APMSA: Adversarial Perturbation against Model Stealing Attacks." IEEE Transactions on Information Forensics and Security (2023). **CCF A**
+
 **[32]** **Yansong Gao**, Jianrong Yao, Lihui Pang, Wei Yang, Anmin Fu, Said F. Al-Sarawi, and Derek Abbott. "MLMSA: Multi-Label Multi-Side-Channel-Information enabled Deep Learning Attacks on APUF Variants." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2023). **CCF A**
 
 **[31]** Wei He, Zhi Zhang, Yueqiang Cheng, Wenhao Wang, Wei Song, **Yansong Gao**, Qifei Zhang, Kang Li, Dongxi Liu, Surya Nepal. "WhistleBlower: A System-level Empirical Study on RowHammer." IEEE Transactions on Computers (2023). **CCF A**
