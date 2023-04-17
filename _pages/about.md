@@ -20,13 +20,13 @@ Current Students
 * Ting Luo 骆挺, Master Student 研究生，2022---
 * Benxuan Huang 黄本轩，Master Student 研究生，2021---
 * Yifan Zhu 朱一凡，Master Student 研究生，2021---
-* Huming Qiu 丘虎鸣，Master Student 研究生，2020---
-* Jianrong Yao 姚建荣，Master Student 研究生，2020---
-* Qun Li 李群，Master Student 研究生，2020---
-* Yinshan Li 李银山，Master Student 研究生，2020---
 
 Past Students
 ======
+* Huming Qiu 丘虎鸣，Master Student 研究生，2020---2023.04
+* Jianrong Yao 姚建荣，Master Student 研究生，2020---2023.04, 中电50所
+* Qun Li 李群，Master Student 研究生，2020---2023.04，航天2院
+* Yinshan Li 李银山，Master Student 研究生，2020---2023.04，中兴
 * Yang Lu, PhD Student of QUT, 2019---2020.
 * Bedeuro Kim, PhD Student of SKKU, 2019---2020.
 * Yeonjae Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
