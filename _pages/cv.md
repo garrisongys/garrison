@@ -23,17 +23,24 @@ PC Member
 Reviewer
 ======
 * Nature
+* Nature Nanotechnology
 * Nature Electronics
 * Nature Communications
 * IEEE Transactions on Dependable and Secure Computing
 * IEEE Transactions on Information Forensics and Security
 * IEEE Transactions on Services Computing
+* IEEE Transactions on Knowledge and Data Engineering
+* Computer & Security
 * IEEE Transactions on Emerging Topics in Computing
 * ACM Transactions on Internet of Things 
 * IEEE Internet of Things Journal
+* Neural Networks
+* Neurocomputing
+* Pattern Recognition
 * Journal of Information Security and Applications
 * ACM Digital Threats: Research and Practice (DTRAP)
 * IEEE Transactions on Nanotechnology
+* IEEE Transactions on Circuits and Systems I: Regular Papers
 * IEEE Electron Device Letters
 * Electronics Letters
 * IEEE Access
