@@ -11,6 +11,10 @@ author_profile: true
 Journal
 ======
 
+**[35]** Hua Ma, Huming Qiu, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Zhang Jiliang, Said Al-Sarawi, and Derek Abbott. "Quantization backdoors to deep learning commercial frameworks." IEEE Transactions on Dependable and Secure Computing (2023). **CCF A**, **(Corresponding Author)**
+
+**[34]** Ngoc Duy Pham, Alsharif Abuadbba, **Yansong Gao**, Tran Khoa Phan, and Naveen Chilamkurti. "Binarizing split learning for data privacy enhancement and computation reduction." IEEE Transactions on Information Forensics and Security (2023). **CCF A**
+
 **[33]** Jiliang Zhang, Shuang Peng, **Yansong Gao**, Zhi Zhang, and Qinghui Hong. "APMSA: Adversarial Perturbation against Model Stealing Attacks." IEEE Transactions on Information Forensics and Security (2023). **CCF A**
 
 **[32]** **Yansong Gao**, Jianrong Yao, Lihui Pang, Wei Yang, Anmin Fu, Said F. Al-Sarawi, and Derek Abbott. "MLMSA: Multi-Label Multi-Side-Channel-Information enabled Deep Learning Attacks on APUF Variants." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2023). **CCF A**
