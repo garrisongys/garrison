@@ -11,6 +11,8 @@ author_profile: true
 Journal
 ======
 
+**[36]** Yifeng Zheng, Shuangqing Xu, Songlei Wang, **Yansong Gao**, and Zhongyun Hua. "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables." IEEE Transactions on Services Computing (2023). **CCF A**
+
 **[35]** Hua Ma, Huming Qiu, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Zhang Jiliang, Said Al-Sarawi, and Derek Abbott. "Quantization backdoors to deep learning commercial frameworks." IEEE Transactions on Dependable and Secure Computing (2023). **CCF A**, **(Corresponding Author)** [Code](https://github.com/quantization-backdoor)
 
 **[34]** Ngoc Duy Pham, Alsharif Abuadbba, **Yansong Gao**, Tran Khoa Phan, and Naveen Chilamkurti. "Binarizing split learning for data privacy enhancement and computation reduction." IEEE Transactions on Information Forensics and Security (2023). **CCF A**
@@ -84,7 +86,7 @@ Journal
 Conference
 ======
 
-**[14]** Shang Wang, **#Yansong Gao**, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, and Dongxi Liu. "CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences." ACM ASIA Conference on Computer and Communications Security (**AsiaCCS**) (**2023**). To appear. #Co-first Author.
+**[14]** Shang Wang, **#Yansong Gao**, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, and Dongxi Liu. "CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences." ACM ASIA Conference on Computer and Communications Security (**AsiaCCS, Distinguished Paper Award**) (**2023**). To appear. #Co-first Author.
 
 **[13]** #Chunyi Zhou (**Co-Supervised Ph.D Student**), **#Yansong Gao**, Anmin Fu, Kai Chen, Zhiyang Dai, Zhi Zhang, Minhui Xue, and Yuqing Zhang. "PPA: Preference Profiling Attack Against Federated Learning." NDSS (2023). To Appear. **CCF A**，#Co-first Author. [Code](https://github.com/PPAattack)
 
