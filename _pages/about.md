@@ -25,7 +25,8 @@ Current Students
 
 Past Students
 ======
-* Huming Qiu 丘虎鸣，Master Student 研究生，2020---2023.04
+* Shang Wang 王尚，Master Student 研究生，Co-supervise, 2020---2023.06, ---
+* Huming Qiu 丘虎鸣，Master Student 研究生，2020---2023.04, ---
 * Jianrong Yao 姚建荣，Master Student 研究生，2020---2023.04, 中电50所
 * Qun Li 李群，Master Student 研究生，2020---2023.04，航天2院
 * Yinshan Li 李银山，Master Student 研究生，2020---2023.04，中兴
