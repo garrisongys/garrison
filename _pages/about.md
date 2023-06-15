@@ -26,14 +26,14 @@ Current Students
 Past Students
 ======
 * Shang Wang 王尚，Master Student 研究生，Co-supervise, 2020---2023.06, ---
-* Huming Qiu 丘虎鸣，Master Student 研究生，2020---2023.04, ---
-* Jianrong Yao 姚建荣，Master Student 研究生，2020---2023.04, 中电50所
-* Qun Li 李群，Master Student 研究生，2020---2023.04，航天2院
-* Yinshan Li 李银山，Master Student 研究生，2020---2023.04，中兴
+* Huming Qiu 丘虎鸣，Master Student 研究生，2020---2023.04, ---> Fudan University (Ph.D) 复旦大学（博士）
+* Jianrong Yao 姚建荣，Master Student 研究生，2020---2023.04, ---> 中电50所
+* Qun Li 李群，Master Student 研究生，2020---2023.04，---> 航天2院
+* Yinshan Li 李银山，Master Student 研究生，2020---2023.04，---> 中兴
 * Yang Lu, PhD Student of QUT, 2019---2020.
 * Bedeuro Kim, PhD Student of SKKU, 2019---2020.
-* Yeonjae Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
-* Kyuyeon Kim, Undergraduate Student of SKKU, 2019, Now Master Student at Korea Advanced Institute of Science and Technology (KAIST)
+* Yeonjae Kim, Undergraduate Student of SKKU, 2019, ---> Master Student at Korea Advanced Institute of Science and Technology (KAIST)
+* Kyuyeon Kim, Undergraduate Student of SKKU, 2019, ---> Master Student at Korea Advanced Institute of Science and Technology (KAIST)
 * Minki Kim, Undergraduate Student of SKKU, 2019.
 
 
