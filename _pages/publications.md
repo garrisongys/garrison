@@ -10,6 +10,7 @@ author_profile: true
 
 Journal
 ======
+**[37]** Hua Ma, Qun Li, Yifeng Zheng, Zhi Zhang, Xiaoning Liu, **Yansong Gao**, Said F. Al-Sarawi, and Derek Abbott. "MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning." Computers & Security (2023). **CCF B**, **(Corresponding Author)**
 
 **[36]** Yifeng Zheng, Shuangqing Xu, Songlei Wang, **Yansong Gao**, and Zhongyun Hua. "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables." IEEE Transactions on Services Computing (2023). **CCF A**
 
