@@ -89,7 +89,7 @@ Conference
 
 **[16]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**
 
-**[15]** Hua Ma, Yinshan Li, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." SRDS (2023). To appear. **CCF B** **(Corresponding Author)**
+**[15]** Hua Ma, Yinshan Li, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." (**SRDS**) (2023). To appear. **CCF B** **(Corresponding Author)**
 
 **[14]** Shang Wang, **#Yansong Gao**, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, and Dongxi Liu. "CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences." ACM ASIA Conference on Computer and Communications Security (**AsiaCCS, Distinguished Paper Award**) (**2023**). To appear. #Co-first Author.
 
