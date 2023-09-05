@@ -11,7 +11,7 @@ author_profile: true
 Journal
 ======
 
-**[38]** Yinshan Li, Hua Ma, Zhi Zhang, **Yansong Gao**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, and Derek Abbott. "NTD: Non-Transferability Enabled Backdoor Detection." IEEE Transactions on Information Forensics and Security (2023). **CCF A**, **(Corresponding Author)**
+**[38]** Yinshan Li, Hua Ma, Zhi Zhang, **Yansong Gao**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, and Derek Abbott. "NTD: Non-Transferability enabled Deep Learning Backdoor Detection." IEEE Transactions on Information Forensics and Security (2023). **CCF A**, **(Corresponding Author)**
 
 **[37]** Hua Ma, Qun Li, Yifeng Zheng, Zhi Zhang, Xiaoning Liu, **Yansong Gao**, Said F. Al-Sarawi, and Derek Abbott. "MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning." Computers & Security (2023). **CCF B**, **(Corresponding Author)**
 
