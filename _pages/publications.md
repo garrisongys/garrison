@@ -13,7 +13,7 @@ Journal
 
 **[38]** Yinshan Li, Hua Ma, Zhi Zhang, **Yansong Gao**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, and Derek Abbott. "NTD: Non-Transferability enabled Deep Learning Backdoor Detection." IEEE Transactions on Information Forensics and Security (2023). **CCF A**, **(Corresponding Author)** [Code](https://github.com/backdoorrrr/NTD-backdoor-detection)
 
-**[37]** Hua Ma, Qun Li, Yifeng Zheng, Zhi Zhang, Xiaoning Liu, **Yansong Gao**, Said F. Al-Sarawi, and Derek Abbott. "MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning." Computers & Security (2023). **CCF B**, **(Corresponding Author)** [Natural Trigger based Backdoor Dataset](https://github.com/inconstance/T-shirt-natural-backdoor-dataset) [Video Demo](https://www.youtube.com/watch?v=MA7L_LpXkp4)
+**[37]** Hua Ma, Qun Li, Yifeng Zheng, Zhi Zhang, Xiaoning Liu, **Yansong Gao**, Said F. Al-Sarawi, and Derek Abbott. "MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning." Computers & Security (2023). **CCF B**, **(Corresponding Author)** 
 
 **[36]** Yifeng Zheng, Shuangqing Xu, Songlei Wang, **Yansong Gao**, and Zhongyun Hua. "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables." IEEE Transactions on Services Computing (2023). **CCF A**
 
@@ -92,7 +92,7 @@ Conference
 
 **[16]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear
 
-**[15]** Hua Ma, Yinshan Li, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." (**SRDS**) (2023). **CCF B** **(Corresponding Author)**, To appear
+**[15]** Hua Ma, Yinshan Li, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." (**SRDS**) (2023). **CCF B** **(Corresponding Author)**, To appear [Natural Trigger based Backdoor Dataset](https://github.com/inconstance/T-shirt-natural-backdoor-dataset), [Video Demo](https://www.youtube.com/watch?v=MA7L_LpXkp4)
 
 **[14]** Shang Wang, **#Yansong Gao**, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, and Dongxi Liu. "CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences." ACM ASIA Conference on Computer and Communications Security (**AsiaCCS, Distinguished Paper Award**) (**2023**). #Co-first Author, To appear
 
