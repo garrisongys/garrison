@@ -8,12 +8,12 @@ author_profile: true
 {% include base_path %}
 
 
-Journal
+Journal (# indicates corresponding author, * indicates co-first author)
 ======
 
-**[38]** Yinshan Li, Hua Ma, Zhi Zhang, **Yansong Gao**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, and Derek Abbott. "NTD: Non-Transferability enabled Deep Learning Backdoor Detection." IEEE Transactions on Information Forensics and Security (2023). **CCF A**, **(Corresponding Author)** [Code](https://github.com/backdoorrrr/NTD-backdoor-detection)
+**[38]** Yinshan Li, Hua Ma, Zhi Zhang, **Yansong Gao#**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, and Derek Abbott. "NTD: Non-Transferability enabled Deep Learning Backdoor Detection." IEEE Transactions on Information Forensics and Security (2023). **CCF A** [Code](https://github.com/backdoorrrr/NTD-backdoor-detection)
 
-**[37]** Hua Ma, Qun Li, Yifeng Zheng, Zhi Zhang, Xiaoning Liu, **Yansong Gao**, Said F. Al-Sarawi, and Derek Abbott. "MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning." Computers & Security (2023). **CCF B**, **(Corresponding Author)** 
+**[37]** Hua Ma, Qun Li, Yifeng Zheng, Zhi Zhang, Xiaoning Liu, **Yansong Gao#**, Said F. Al-Sarawi, and Derek Abbott. "MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning." Computers & Security (2023). **CCF B** 
 
 **[36]** Yifeng Zheng, Shuangqing Xu, Songlei Wang, **Yansong Gao**, and Zhongyun Hua. "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables." IEEE Transactions on Services Computing (2023). **CCF A**
 
@@ -87,7 +87,7 @@ Journal
 
 **[1]** Hongbin Zhang, Yanbing Mao, and **Yansong Gao**. "Exponential stability and asynchronous stabilization of switched systems with stable and unstable subsystems." Asian Journal of Control 15, no. 5 (**2013**): 1426-1433.
 
-Conference
+Conference (# indicates corresponding author, * indicates co-first author)
 ======
 
 **[16]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear
