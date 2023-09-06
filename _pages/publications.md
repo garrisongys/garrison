@@ -17,7 +17,7 @@ Journal (# indicates corresponding author, * indicates co-first author)
 
 **[36]** Yifeng Zheng, Shuangqing Xu, Songlei Wang, **Yansong Gao**, and Zhongyun Hua. "Privet: A Privacy-Preserving Vertical Federated Learning Service for Gradient Boosted Decision Tables." IEEE Transactions on Services Computing (2023). **CCF A**
 
-**[35]** Hua Ma, Huming Qiu, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Zhang Jiliang, Said Al-Sarawi, and Derek Abbott. "Quantization backdoors to deep learning commercial frameworks." IEEE Transactions on Dependable and Secure Computing (2023). **CCF A**, **(Corresponding Author)** [Code](https://github.com/quantization-backdoor)
+**[35]** Hua Ma, Huming Qiu, **Yansong Gao#**, Zhi Zhang, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Zhang Jiliang, Said Al-Sarawi, and Derek Abbott. "Quantization backdoors to deep learning commercial frameworks." IEEE Transactions on Dependable and Secure Computing (2023). **CCF A** [Code](https://github.com/quantization-backdoor)
 
 **[34]** Ngoc Duy Pham, Alsharif Abuadbba, **Yansong Gao**, Tran Khoa Phan, and Naveen Chilamkurti. "Binarizing split learning for data privacy enhancement and computation reduction." IEEE Transactions on Information Forensics and Security (2023). **CCF A**
 
@@ -29,9 +29,9 @@ Journal (# indicates corresponding author, * indicates co-first author)
 
 **[30]** **Yansong Gao**, Yang Su, Surya Nepal, and Damith C. Ranasinghe. "NoisFre: Noise-tolerant memory fingerprints from commodity devices for security functions." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**. [Video Demo](https://www.youtube.com/watch?v=O5NWZw-swpw)
 
-**[29]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou. "Implicit Hammer: Cross-Privilege-Boundary Rowhammer through Implicit Accesses". IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**, **(Corresponding Author)**
+**[29]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao#**, Dongxi Liu, Kang Li, Surya Nepal, Anmin Fu, Yi Zou. "Implicit Hammer: Cross-Privilege-Boundary Rowhammer through Implicit Accesses". IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
 
-**[28]** Huming Qiu (**Supervised Master Student**), Hua Ma, Zhi Zhang, **Yansong Gao**, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek Abbott, and Said F. Al-Sarawi. "RBNN: Memory-efficient reconfigurable deep binary neural network with IP protection for internet of things." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022). **CCF A**, **(Corresponding Author)**
+**[28]** Huming Qiu (**Supervised Master Student**), Hua Ma, Zhi Zhang, **Yansong Gao#**, Yifeng Zheng, Anmin Fu, Pan Zhou, Derek Abbott, and Said F. Al-Sarawi. "RBNN: Memory-efficient reconfigurable deep binary neural network with IP protection for internet of things." IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (2022). **CCF A**
 
 **[27]** Lei Zhou, Anmin Fu, Guomin Yang, **Yansong Gao**, Shui Yu, and Robert H. Deng. "Fair Cloud Auditing Based on Blockchain for Resource-Constrained IoT Devices." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
 
@@ -45,7 +45,7 @@ Journal (# indicates corresponding author, * indicates co-first author)
 
 **[22]** Yang Su, Michael Chesser, **Yansong Gao**, Alanson P. Sample, and Damith C. Ranasinghe. "Wisecr: Secure Simultaneous Code Disseminationto Many Batteryless Computational RFID Devices." IEEE Transactions on Dependable and Secure Computing (2022). **CCF A**
 
-**[21]** Jianrong Yao (**Supervised Master Student**), Lihui Pang, Yang Su, Zhi Zhang, Wei Yang, Anmin Fu, and **Yansong Gao**. "Design and Evaluate Recomposited OR-AND-XOR-PUF." IEEE Transactions on Emerging Topics in Computing (2022). **(Corresponding Author)**
+**[21]** Jianrong Yao (**Supervised Master Student**), Lihui Pang, Yang Su, Zhi Zhang, Wei Yang, Anmin Fu, and **Yansong Gao#**. "Design and Evaluate Recomposited OR-AND-XOR-PUF." IEEE Transactions on Emerging Topics in Computing (2022). 
 
 **[20]** J. R. Dawson, George Hobbs, **Yansong Gao**, Seyit Camtepe, Josef Pieprzyk, Yi Feng, Luke Tranfa, Sarah Bradbury, Weiwei Zhu, and Di Li. "Physical Publicly Verifiable Randomness from Pulsars." Astronomy & Computing (2022).
 
@@ -57,7 +57,7 @@ Journal (# indicates corresponding author, * indicates co-first author)
 
 **[16]** Yupeng Yu, Wenxin Kuang, Zheng Qin, Kenli Li, Jiliang Zhang, **Yansong Gao**, Wenjia Li, and Keqin Li. "Artificial Intelligence Security: Threats and Countermeasures." ACM Computing Surveys (CSUR) 55, no. 1 (2021): 1-36.
 
-**[15]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao**, Minghua Wang, Kang Li, Surya Nepal, and Yang Xiang. "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability." IEEE Transactions on Information Forensics and Security 16 (2021): 5167-5181. **CCF A** **(Corresponding Author)**
+**[15]** Zhi Zhang, Wei He, Yueqiang Cheng, Wenhao Wang, **Yansong Gao#**, Minghua Wang, Kang Li, Surya Nepal, and Yang Xiang. "BitMine: An End-to-End Tool for Detecting Rowhammer Vulnerability." IEEE Transactions on Information Forensics and Security 16 (2021): 5167-5181. **CCF A** 
 
 **[14]** **Yansong Gao**, Yeonjae Kim, Bao Gia Doan, Zhi Zhang, Gongxuan Zhang, Surya Nepal, Damith C. Ranasinghe, and Hyoungshick Kim. "Design and evaluation of a multi-domain Trojan detection method on deep neural networks." IEEE Transactions on Dependable and Secure Computing (**2021**). **CCF A**. [Code](https://github.com/yjkim721/STRIP-ViTA)
 
@@ -92,11 +92,11 @@ Conference (# indicates corresponding author, * indicates co-first author)
 
 **[16]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear
 
-**[15]** Hua Ma, Yinshan Li, **Yansong Gao**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." (**SRDS**) (2023). **CCF B** **(Corresponding Author)**, To appear [Natural Trigger based Backdoor Dataset](https://github.com/inconstance/T-shirt-natural-backdoor-dataset), [Video Demo](https://www.youtube.com/watch?v=MA7L_LpXkp4)
+**[15]** Hua Ma, Yinshan Li, **Yansong Gao#**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." (**SRDS**) (2023). **CCF B**, To appear [Natural Trigger based Backdoor Dataset](https://github.com/inconstance/T-shirt-natural-backdoor-dataset), [Video Demo](https://www.youtube.com/watch?v=MA7L_LpXkp4)
 
-**[14]** Shang Wang, **#Yansong Gao**, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, and Dongxi Liu. "CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences." ACM ASIA Conference on Computer and Communications Security (**AsiaCCS, Distinguished Paper Award**) (**2023**). #Co-first Author, To appear
+**[14]** Shang Wang, **Yansong Gao***, Anmin Fu, Zhi Zhang, Yuqing Zhang, Willy Susilo, and Dongxi Liu. "CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences." ACM ASIA Conference on Computer and Communications Security (**AsiaCCS, Distinguished Paper Award**) (**2023**). **CCF C**
 
-**[13]** #Chunyi Zhou (**Co-Supervised Ph.D Student**), **#Yansong Gao**, Anmin Fu, Kai Chen, Zhiyang Dai, Zhi Zhang, Minhui Xue, and Yuqing Zhang. "PPA: Preference Profiling Attack Against Federated Learning." The Network and Distributed System Security Symposium (**NDSS**). 2023, **CCF A**，#Co-first Author. [Code](https://github.com/PPAattack)
+**[13]** #Chunyi Zhou (**Co-Supervised Ph.D Student**), **#Yansong Gao***, Anmin Fu, Kai Chen, Zhiyang Dai, Zhi Zhang, Minhui Xue, and Yuqing Zhang. "PPA: Preference Profiling Attack Against Federated Learning." The Network and Distributed System Security Symposium (**NDSS**). 2023, **CCF A** [Code](https://github.com/PPAattack)
 
 **[12]** Zhi Zhang, Yueqiang Cheng, Minghua Wang, Wei He, Wenhao Wang, Nepal Surya, **Yansong Gao**, Kang Li, Zhe Wang, and Chenggang Wu. "SoftTRR: Protect Page Tables Against RowHammer Attacks using Software-only Target Row Refresh." USENIX Annual Technical Conference (**USENIX ATC '22**) **2022**. (**CCF A, AR=16.30%=64/393**) 
 
