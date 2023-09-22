@@ -90,7 +90,7 @@ Journal (# indicates corresponding author, * indicates co-first author)
 Conference (# indicates corresponding author, * indicates co-first author)
 ======
 
-**[16]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear
+**[16]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear [code and large-scale dataset](https://github.com/LearningMaker/DeepTheft)
 
 **[15]** Hua Ma, Yinshan Li, **Yansong Gao#**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." (**SRDS**) (2023). **CCF B**, To appear [Natural Trigger based Backdoor Dataset](https://github.com/inconstance/T-shirt-natural-backdoor-dataset), [Video Demo](https://www.youtube.com/watch?v=MA7L_LpXkp4)
 
