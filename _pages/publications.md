@@ -90,7 +90,9 @@ Journal (# indicates corresponding author, * indicates co-first author)
 Conference (# indicates corresponding author, * indicates co-first author)
 ======
 
-**[17]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear [code and large-scale dataset](https://github.com/LearningMaker/DeepTheft)
+**[18]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear [code and large-scale dataset](https://github.com/LearningMaker/DeepTheft)
+
+**[17]** Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu, Zhi Zhang, **Yansong Gao**, Wen Wu, Xuemin (Sherman) Shen, Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection, USENIX Security Symposium, 2024, **CCF A**
 
 **[16]** Park, Seonhye, Alsharif Abuadbba, Shuo Wang, Kristen Moore, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Tracking Dataset IP Use in Deep Neural Networks." Annual Computer Security Applications Conference (**ACSAC**), 2023, **CCF B**, To appear
 
