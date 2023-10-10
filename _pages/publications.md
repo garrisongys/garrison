@@ -11,6 +11,8 @@ author_profile: true
 Journal (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[39]** Huming Qiu, Hua Ma, Zhi Zhang, Alsharif Abuadbba, Wei Kang, Anmin Fu, and **Yansong Gao#**. "Towards a critical evaluation of robustness for deep learning backdoor countermeasures." IEEE Transactions on Information Forensics and Security (2023). **CCF A**
+
 **[38]** Yinshan Li, Hua Ma, Zhi Zhang, **Yansong Gao#**, Alsharif Abuadbba, Minhui Xue, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, and Derek Abbott. "NTD: Non-Transferability enabled Deep Learning Backdoor Detection." IEEE Transactions on Information Forensics and Security (2023). **CCF A** [Code](https://github.com/backdoorrrr/NTD-backdoor-detection)
 
 **[37]** Hua Ma, Qun Li, Yifeng Zheng, Zhi Zhang, Xiaoning Liu, **Yansong Gao#**, Said F. Al-Sarawi, and Derek Abbott. "MUD-PQFed: Towards Malicious User Detection in Privacy-Preserving Quantized Federated Learning." Computers & Security (2023). **CCF B** 
