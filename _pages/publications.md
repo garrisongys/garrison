@@ -96,7 +96,7 @@ Conference (# indicates corresponding author, * indicates co-first author)
 
 **[18]** Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu, Zhi Zhang, **Yansong Gao**, Wen Wu, Xuemin (Sherman) Shen, Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection, USENIX Security Symposium, 2024, **CCF A**
 
-**[17]** Xin Zhang, Zhi Zhang, Qingni Shen, Wenhao Wang, **Yansong Gao**, Zhuoxi Yang, Jiliang Zhang, SegScope: Probing Fine-grained Interrupts via Architectural Footprints, IEEE International Symposium on High-Performance Computer Architecture (HPCA), 2024, **CCF A**
+**[17]** Xin Zhang, Zhi Zhang, Qingni Shen, Wenhao Wang, **Yansong Gao**, Zhuoxi Yang, Jiliang Zhang, SegScope: Probing Fine-grained Interrupts via Architectural Footprints, IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), 2024, **CCF A**
 
 **[16]** Park, Seonhye, Alsharif Abuadbba, Shuo Wang, Kristen Moore, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Tracking Dataset IP Use in Deep Neural Networks." Annual Computer Security Applications Conference (**ACSAC**), 2023, **CCF B**, To appear
 
