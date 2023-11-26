@@ -19,6 +19,7 @@ PC Member
 * International Workshop on Security, Privacy and Trust in the Internet of Things, in Conjunction with Percom, 2019, 2020, 2021
 * World Conference on Information Security Applications, 2021
 * Asian Test Symposium, 2023
+* AsiaCCS, 2024
 
 Academic Service
 ======
@@ -50,5 +51,6 @@ Reviewer
 * IEEE Access
 * Australasian Conference on Information Security and Privacy (ACISP), 2019
 * International Joint Conference on Neural Networks (IJCNN), 2021
+* WWW 2024
 
 
