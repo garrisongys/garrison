@@ -98,7 +98,7 @@ Conference (# indicates corresponding author, * indicates co-first author)
 
 **[17]** Xin Zhang, Zhi Zhang, Qingni Shen, Wenhao Wang, **Yansong Gao**, Zhuoxi Yang, Jiliang Zhang, SegScope: Probing Fine-grained Interrupts via Architectural Footprints, IEEE International Symposium on High-Performance Computer Architecture (**HPCA**), 2024, **CCF A**
 
-**[16]** Park, Seonhye, Alsharif Abuadbba, Shuo Wang, Kristen Moore, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "Tracking Dataset IP Use in Deep Neural Networks." Annual Computer Security Applications Conference (**ACSAC**), 2023, **CCF B**, To appear
+**[16]** Park, Seonhye, Alsharif Abuadbba, Shuo Wang, Kristen Moore, **Yansong Gao**, Hyoungshick Kim, and Surya Nepal. "DeepTaster: Adversarial Perturbation-Based Fingerprinting to Identify Proprietary Dataset Use in Deep Neural Networks." Annual Computer Security Applications Conference (**ACSAC**), 2023, **CCF B**, [Code](https://github.com/qkrtjsgp08/DeepTaster).
 
 **[15]** Hua Ma, Yinshan Li, **Yansong Gao#**, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. "TransCAB: Transferable Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World." (**SRDS**) (2023). **CCF B**, To appear [Natural Trigger based Backdoor Dataset](https://github.com/inconstance/T-shirt-natural-backdoor-dataset), [Video Demo](https://www.youtube.com/watch?v=MA7L_LpXkp4)
 
