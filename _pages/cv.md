@@ -23,8 +23,10 @@ PC Member
 
 Academic Service
 ======
-* Program Session Chair, AsiaCCS 2023
 
+* Associate Editor (Jan 2024--- ), IEEE Transactions on Neural Networks and Learning Systems
+* Program Session Chair, AsiaCCS 2023
+  
 Reviewer
 ======
 * Nature
