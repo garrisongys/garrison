@@ -19,7 +19,7 @@ PC Member
 * International Workshop on Security, Privacy and Trust in the Internet of Things, in Conjunction with Percom, 2019, 2020, 2021
 * World Conference on Information Security Applications, 2021
 * Asian Test Symposium, 2023
-* AsiaCCS, 2024
+* AsiaCCS, ICDCS, 2024
 
 Academic Service
 ======
