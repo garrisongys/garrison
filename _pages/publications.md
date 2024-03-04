@@ -94,6 +94,8 @@ Journal (# indicates corresponding author, * indicates co-first author)
 Conference (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[20]** Xin Zhang*, Zhi Zhang*, Qingni Shen, Wenhao Wang, **Yansong Gao**, Zhuoxi Yang and Zhonghai Wu. "ThermalScope: A Practical Interrupt Side Channel Attack Based on Thermal Event Interrupts", ACM/IEEE Design Automation Conference (**DAC**), 2024, **CCF A**, To appear.
+
 **[19]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear [code and large-scale dataset](https://github.com/LearningMaker/DeepTheft)
 
 **[18]** Shaofeng Li, Xinyu Wang, Minhui Xue, Haojin Zhu, Zhi Zhang, **Yansong Gao**, Wen Wu, Xuemin (Sherman) Shen, Yes, One-Bit-Flip Matters! Universal DNN Model Inference Depletion with Runtime Code Fault Injection, USENIX Security Symposium, 2024, **CCF A**
