@@ -11,7 +11,7 @@ author_profile: true
 Journal (# indicates corresponding author, * indicates co-first author)
 ======
 
-**[42]** Bo Zhang, Yansong Gao, Boyu Kuang, Changlong Yu, Anmin Fu, Willy Susilo. "A Survey on Advanced Persistent Threat Detection: A Unified Framework, Challenges, and Countermeasures." ACM Computing Surveys (2024). 
+**[42]** Bo Zhang, **Yansong Gao**, Boyu Kuang, Changlong Yu, Anmin Fu, Willy Susilo. "A Survey on Advanced Persistent Threat Detection: A Unified Framework, Challenges, and Countermeasures." ACM Computing Surveys (2024). 
 
 **[41]** Qihao Dong, Shengyuan Yang, Zhiyang Dai, **Yansong Gao**, Shang Wang, Yuan Cao, Anmin Fu, and Willy Susilo. "CareFL: Contribution Guided Byzantine-Robust Federated Learning." IEEE Transactions on Information Forensics and Security (2024). **CCF A**
 
