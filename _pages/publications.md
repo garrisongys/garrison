@@ -94,11 +94,13 @@ Journal (# indicates corresponding author, * indicates co-first author)
 Conference (# indicates corresponding author, * indicates co-first author)
 ======
 
-**[22]** Zhi Zhang, Decheng Chen, Jiahao Qi, Yueqiang Cheng, Shijie Jiang, Yiyang Lin, **Yansong Gao#**, Surya Nepal, Yi Zou, Jiliang Zhang, Yang Xiang. "SoK: Rowhammer on Commodity Operating Systems", ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2024, To appear. 
+**[23]** **Yansong Gao**, Huaibing Peng, Hua Ma, Zhi Zhang, Shuo Wang, Rayne Holland, Anmin Fu, Minhui Xue, and Derek Abbott. "Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!", The Network and Distributed System Security Symposium (NDSS), 2025, **CCF A**, To appear.
+
+**[22]** Zhi Zhang, Decheng Chen, Jiahao Qi, Yueqiang Cheng, Shijie Jiang, Yiyang Lin, **Yansong Gao#**, Surya Nepal, Yi Zou, Jiliang Zhang, Yang Xiang. "SoK: Rowhammer on Commodity Operating Systems", ACM ASIA Conference on Computer and Communications Security (AsiaCCS), 2024.
 
 **[21]** Hua Ma, Shang Wang, **Yansong Gao#**, Zhi Zhang, Huming Qiu, Minhui Xue#, Alsharif Abuadbba, Anmin Fu, Nepal Surya, and Derek Abbott. "Watch Out! Simple Horizontal Class Backdoor Can Trivially Evade Defense", ACM Conference on Computer and Communications Security (**CCS**), 2024, **CCF A**, To appear.
 
-**[20]** Xin Zhang, Zhi Zhang, Qingni Shen, Wenhao Wang, **Yansong Gao**, Zhuoxi Yang and Zhonghai Wu. "ThermalScope: A Practical Interrupt Side Channel Attack Based on Thermal Event Interrupts", ACM/IEEE Design Automation Conference (**DAC**), 2024, **CCF A**, To appear.
+**[20]** Xin Zhang, Zhi Zhang, Qingni Shen, Wenhao Wang, **Yansong Gao**, Zhuoxi Yang and Zhonghai Wu. "ThermalScope: A Practical Interrupt Side Channel Attack Based on Thermal Event Interrupts", ACM/IEEE Design Automation Conference (**DAC**), 2024, **CCF A**.
 
 **[19]** **Yansong Gao**, Huming Qiu, Zhi Zhang, Binghui Wang, Hua Ma, Alsharif Abuadbba, Minhui Xue, Anmin Fu, and Surya Nepal. "DeepTheft: Stealing DNN Model Architectures through Power Side Channel", IEEE Symposium on Security and Privacy (**Oakland**), 2024, **CCF A**, To appear [code and large-scale dataset](https://github.com/LearningMaker/DeepTheft)
 
