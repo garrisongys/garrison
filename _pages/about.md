@@ -12,6 +12,8 @@ I’m a lecturer (equivalent to an assistant professor in the US) at the Univers
 
 My current research interests are AI Security and Privacy, System Security, and Hardware Security (i.e., Physical Unclonable Functions). I received  my  M.Sc  degree  from the University of Electronic Science and Technology of China (UESTC) in 2013 and a Ph.D degree from the University of Adelaide, Australia, in 2017. 
 
-**UWA PhD Scholarship Link** The UWA China Scholarship is open till 31 January, check the [info](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships) and [English requirement](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships).
+**UWA PhD Scholarship Link** 
+
+-- The UWA China Scholarship is open till 31 January, check the [info](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships) and [English requirement](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships).
 
 
