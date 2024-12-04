@@ -16,6 +16,7 @@ Education
 
 PC Member
 ======
+* 2025: AsiaCCS
 * 2024: AsiaCCS, ICDCS, ESORICS
 * 2023: ATS
 
