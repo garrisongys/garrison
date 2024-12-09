@@ -11,6 +11,8 @@ author_profile: true
 Journal (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[44]** Yifeng Zheng, Menglun Zhou, Songlei Wang, Zhongyun Hua, Jinghua Jiang, and **Yansong Gao**. "Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing." IEEE Transactions on Services Computing (2024). **CCF A**
+
 **[43]** **Yansong Gao#**, Seyit A. Camtepe, Nazatul Haque Sultan, Hang Thanh Bui, Arash Mahboubi, Hamed Aboutorab, Michael Bewong, Rafiqul Islam, Md Zahidul Islam, Aufeef Chauhan, Praveen Gauravaram, Dineshkumar Singh. "Security threats to agricultural artificial intelligence: Position and perspective." Computers and Electronics in Agriculture, Volume 227, Part 1 (2024).
 
 **[42]** Bo Zhang, **Yansong Gao**, Boyu Kuang, Changlong Yu, Anmin Fu, Willy Susilo. "A Survey on Advanced Persistent Threat Detection: A Unified Framework, Challenges, and Countermeasures." ACM Computing Surveys (2024). 
