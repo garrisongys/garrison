@@ -11,6 +11,8 @@ author_profile: true
 Journal (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[45]** Yifeng Zheng, Weibo Wang, Songlei Wang, Zhongyun Hua, and **Yansong Gao**. "ObliuSky: Oblivious User-Defined Skyline Query Processing in the Cloud." IEEE Transactions on Services Computing (2024). **CCF A**
+
 **[44]** Yifeng Zheng, Menglun Zhou, Songlei Wang, Zhongyun Hua, Jinghua Jiang, and **Yansong Gao**. "Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing." IEEE Transactions on Services Computing (2024). **CCF A**
 
 **[43]** **Yansong Gao#**, Seyit A. Camtepe, Nazatul Haque Sultan, Hang Thanh Bui, Arash Mahboubi, Hamed Aboutorab, Michael Bewong, Rafiqul Islam, Md Zahidul Islam, Aufeef Chauhan, Praveen Gauravaram, Dineshkumar Singh. "Security threats to agricultural artificial intelligence: Position and perspective." Computers and Electronics in Agriculture, Volume 227, Part 1 (2024).
