@@ -14,6 +14,6 @@ His current research interests are AI Security and Privacy, System Security, and
 
 **UWA PhD Scholarship Link** 
 
-- The UWA China Scholarship is open till 31 January 2024, check the [info](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships) and [English requirement](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships).
+- The UWA China Scholarship is open till 31 January 2025, check the [info](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships) and [English requirement](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships).
 
 
