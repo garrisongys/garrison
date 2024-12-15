@@ -11,6 +11,8 @@ author_profile: true
 Journal (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[46]** Zhiyang Dai, **Yansong Gao***, Chunyi Zhou, Anmin Fu, Zhi Zhang, Minhui Xue, Yifeng Zheng, and Yuqing Zhang. "Decaf: Data distribution decompose attack against federated learning." IEEE Transactions on Information Forensics and Security (2024). **CCF A**
+
 **[45]** Yifeng Zheng, Weibo Wang, Songlei Wang, Zhongyun Hua, and **Yansong Gao**. "ObliuSky: Oblivious User-Defined Skyline Query Processing in the Cloud." IEEE Transactions on Services Computing (2024). **CCF A**
 
 **[44]** Yifeng Zheng, Menglun Zhou, Songlei Wang, Zhongyun Hua, Jinghua Jiang, and **Yansong Gao**. "Privacy-Preserving Competitive Detour Tasking in Spatial Crowdsourcing." IEEE Transactions on Services Computing (2024). **CCF A**
