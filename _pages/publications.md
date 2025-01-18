@@ -11,6 +11,10 @@ author_profile: true
 Journal (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[48]** Na Li, Chunyi Zhou, **Yansong Gao**, Hui Chen, Anmin Fu, Zhi Zhang, and Yu Shui. "Machine Unlearning: Taxonomy, Metrics, Applications, Challenges, and Prospects." IEEE Transactions on Neural Networks and Learning Systems (2025). **CCF B**
+
+**[47]** Tao Huang, **Yansong Gao***, Yifeng Zheng, Zhanfeng Wang, Chao Hu, and Anmin Fu. "FineBID: Fine-grained Protocol Reverse Engineering for Bit-level Field IDentification." IEEE Transactions on Dependable and Secure Computing (2024). **CCF A**
+
 **[46]** Zhiyang Dai, **Yansong Gao***, Chunyi Zhou, Anmin Fu, Zhi Zhang, Minhui Xue, Yifeng Zheng, and Yuqing Zhang. "Decaf: Data distribution decompose attack against federated learning." IEEE Transactions on Information Forensics and Security (2024). **CCF A**
 
 **[45]** Yifeng Zheng, Weibo Wang, Songlei Wang, Zhongyun Hua, and **Yansong Gao**. "ObliuSky: Oblivious User-Defined Skyline Query Processing in the Cloud." IEEE Transactions on Services Computing (2024). **CCF A**
@@ -105,6 +109,8 @@ Journal (# indicates corresponding author, * indicates co-first author)
 
 Conference (# indicates corresponding author, * indicates co-first author)
 ======
+
+**[25]** Hua Ma, Alsharif Abuadbba, **Yansong Gao#**, Hyoungshick Kim, Surya Nepal. "Comprehensive Evaluation of Cloaking Backdoor Attacks on Object Detector in Real-World", AsiaCCS, 2025, To appear.
 
 **[24]** **Yansong Gao**, Huaibing Peng, Hua Ma, Zhi Zhang, Shuo Wang, Rayne Holland, Anmin Fu, Minhui Xue, and Derek Abbott. "Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!", The Network and Distributed System Security Symposium (NDSS), 2025, **CCF A**, To appear.
 
