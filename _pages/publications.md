@@ -110,6 +110,10 @@ Journal (# indicates corresponding author, * indicates co-first author)
 Conference (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[27]** Junkai Liang, Zhi Zhang, Xin Zhang, Qingni Shen, **Yansong Gao**, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu. "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer", USENIX Security, 2025, **CCF A** To appear. 
+
+**[26]** Zewei Shi, Ruoxi Sun, Jieshan Chen, Jiamou Sun, Minhui Xue, **Yansong Gao**, Feng Liu, Xingliang Yuan. "50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications", The ACM Web Conference (WWW), 2025, **CCF A** To appear.
+
 **[25]** Hua Ma, Alsharif Abuadbba, **Yansong Gao#**, Hyoungshick Kim, Surya Nepal. "Comprehensive Evaluation of Cloaking Backdoor Attacks on Object Detector in Real-World", AsiaCCS, 2025, To appear.
 
 **[24]** **Yansong Gao**, Huaibing Peng, Hua Ma, Zhi Zhang, Shuo Wang, Rayne Holland, Anmin Fu, Minhui Xue, and Derek Abbott. "Try to Poison My Deep Learning Data? Nowhere to Hide Your Trajectory Spectrum!", The Network and Distributed System Security Symposium (NDSS), 2025, **CCF A**, To appear.
