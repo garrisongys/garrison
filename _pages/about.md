@@ -12,8 +12,11 @@ He is a lecturer (equivalent to an assistant professor in the US) at the Univers
 
 His current research interests are AI Security and Privacy, System Security, and Hardware Security (i.e., Physical Unclonable Functions). He received  his  M.Sc  degree  from the University of Electronic Science and Technology of China (UESTC) and a Ph.D degree from the University of Adelaide, Australia. 
 
-**UWA PhD Scholarship Link** 
+**UWA Scholarship Rounds** 
 
-- The UWA China Scholarship is open till 31 January 2025, check the [info](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships) and [English requirement](https://researchdegrees.uwa.edu.au/scholarships/8qq4q/uwa-china-scholarships).
+The next available UWA scholarship rounds (check [here](https://researchdegrees.uwa.edu.au/)) for enrolment in 2026 are:
 
+- International Round: 1 July 2025 - 31 August 2025
+- Domestic Round: 1 September 2025 - 31 October 2025 (this round includes UWA international students)
 
+If you’re a student, postdoc, or visiting researcher, feel free to get in touch anytime if you’d like to visit UWA.
