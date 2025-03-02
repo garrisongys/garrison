@@ -110,6 +110,10 @@ Journal (# indicates corresponding author, * indicates co-first author)
 Conference (# indicates corresponding author, * indicates co-first author)
 ======
 
+**[29]** Xin Zhang, Jiajun Zou, Yi Yang, Qingni Shen, Zhi Zhang, **Yansong Gao**, Zhonghai Wu, Trevor Carlson. "LeakyDSP: Exploiting Digital Signal Processing Blocks to Sense Voltage Fluctuations in FPGAs", Design Automation Conference (DAC), 2025, **CCF A** To appear.
+
+**[28]** Xin Zhang, Yi Yang, Jiajun Zou, Qingni Shen, Zhi Zhang, **Yansong Gao**, Zhonghai Wu, Trevor Carlson. "AmpereBleed: Exploiting On-chip Current Sensors for Circuit-Free Attacks on ARM-FPGA SoCs", Design Automation Conference (DAC), 2025, **CCF A** To appear.
+
 **[27]** Junkai Liang, Zhi Zhang, Xin Zhang, Qingni Shen, **Yansong Gao**, Xingliang Yuan, Haiyang Xue, Pengfei Wu, Zhonghai Wu. "Achilles: A Formal Framework of Leaking Secrets from Signature Schemes via Rowhammer", USENIX Security, 2025, **CCF A** To appear. 
 
 **[26]** Zewei Shi, Ruoxi Sun, Jieshan Chen, Jiamou Sun, Minhui Xue, **Yansong Gao**, Feng Liu, Xingliang Yuan. "50 Shades of Deceptive Patterns: A Unified Taxonomy, Multimodal Detection, and Security Implications", The ACM Web Conference (WWW), 2025, **CCF A** To appear.
