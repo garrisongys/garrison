@@ -9,11 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[comment]: <> Education
-[comment]: <> ======
-[comment]: <> * M.S. University of Electronic Science and Technology of China (UESTC), 2013
-[comment]: <> * Ph.D The University of Adelaide, 2017
-
 Academic Service
 ======
 * Associate Editor (Oct 2024--- ), IEEE Transactions on Information Forensics and Security 
