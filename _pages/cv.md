@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Service"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Academic Service
+Editor
 ======
 * Associate Editor (Oct 2024--- ), IEEE Transactions on Information Forensics and Security 
 * Associate Editor (Jan 2024--- ), IEEE Transactions on Neural Networks and Learning Systems
@@ -16,6 +16,7 @@ Academic Service
 
 PC Member
 ======
+* 2026: EuroS&P
 * 2025: AsiaCCS, ACSAC
 * 2024: AsiaCCS, ICDCS, ESORICS
 * 2023: ATS
