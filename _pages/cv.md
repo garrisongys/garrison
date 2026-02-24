@@ -17,7 +17,7 @@ Editor
 
 PC Member
 ======
-* 2026: CCS, Usenix Security, EuroS&P, WWW, ACISP
+* 2026: CCS, Usenix Security, EuroS&P, WWW, ICDCS, ACISP
 * 2025: AsiaCCS, ACSAC
 * 2024: AsiaCCS, ICDCS, ESORICS
 * 2023: ATS
