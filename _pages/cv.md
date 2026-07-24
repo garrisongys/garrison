@@ -17,7 +17,7 @@ Editor
 
 PC Member
 ======
-* 2027: Usenix Security, AsiaCCS
+* 2027: Usenix Security, AsiaCCS, ASP-DAC
 * 2026: CCS, Usenix Security, ACSAC, EuroS&P, WWW, ICDCS, ACISP, IEEE GLOBECOM, IEEE CIC
 * 2025: AsiaCCS, ACSAC
 * 2024: AsiaCCS, ICDCS, ESORICS
